@@ -1,0 +1,10 @@
+{
+  "name": "com.itkamianets.3d-unity-synth",
+  "version": "0.1.0",
+  "displayName": "Unity Synth",
+  "description": "Makes a game's sounds in code, from simple waves and noise, so it needs no audio files: a tiny clip builder and a sound board with a master and an effects volume and a looping ambience.",
+  "unity": "6000.6",
+  "dependencies": {},
+  "keywords": ["audio", "synth", "sfx", "engine"],
+  "author": { "name": "IT Kamianets" }
+}
